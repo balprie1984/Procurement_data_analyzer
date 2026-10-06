@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "procurement-data-analyzer"
+version = "0.1.0"
+description = "A local dashboard for analyzing procurement purchase order spend"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+dependencies = [
+  "streamlit>=1.36,<2.0",
+  "pandas>=2.2,<3.0",
+  "plotly>=5.22,<7.0",
+  "openpyxl>=3.1,<4.0",
+  "Pillow>=10.3,<13.0",
+  "pypdf>=5.0,<7.0",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,13 @@
+Vendor_address_id,vendor_id,vendor_name,Address_line_1,Address_line_2,Address_line_3,City,State/Province,Zip,Country,Start_date_active,end_date_active
+10001,1001,Amazon Inc.,,,,Seattle,Washington,,USA,01-Jan-2023,
+10002,1001,Amazon Inc.,,,,Toronto,Ontario,,Canada,01-Mar-2024,
+10003,1002,Alphabet Inc.,,,,Mountain View,California,,USA,01-Jan-2022,
+10004,1003,Apple Inc.,,,,Cupertino,California,,USA,01-Jan-2023,31-Dec-2025
+10005,1003,Apple Inc.,,,,Bengaluru,Karnataka,,India,01-Jan-2024,31-Dec-2025
+10006,1004,Meta Inc.,,,,Menlo Park,California,,USA,01-Jan-2025,
+10007,1004,Meta Inc.,,,,Dublin,Dublin,,Ireland,01-Jan-2025,
+10008,1005,Netapp Inc,,,,San Jose,California,,USA,01-Jan-2023,
+10009,1006,Fidelity Inc.,,,,Boston,Massachusetts,,USA,01-Jan-2023,
+10010,1007,Google Corp,,,,Mountain View,California,,USA,01-Jan-2023,
+10011,1008,Baird Holm LLP,,,,Omaha,Nebraska,,USA,01-Jan-2023,
+10012,1009,Price Water Cooper,,,,New York,New York,,USA,01-Jan-2023,

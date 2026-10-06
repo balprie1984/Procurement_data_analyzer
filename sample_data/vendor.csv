@@ -1,0 +1,10 @@
+vendor_id,vendor_name,Vendor_number,Parent_vendor_id,Vendor_type,start_date_active,end_date_active,Tax_id
+1001,Amazon Inc.,VND10001,-1,Supplier,01-Jan-2023,,
+1002,Alphabet Inc.,VND10002,-1,Supplier,01-Jan-2022,,
+1003,Apple Inc.,VND10003,-1,Supplier,01-Jan-2023,31-Dec-2025,
+1004,Meta Inc.,VND10004,-1,Supplier,01-Jan-2025,,
+1005,Netapp Inc,VND10005,-1,Supplier,01-Jan-2023,,
+1006,Fidelity Inc.,VND10006,-1,Bank,01-Jan-2023,,
+1007,Google Corp,VND10007,1002,Supplier,01-Jan-2023,,
+1008,Baird Holm LLP,VND1008,-1,Legal,01-Jan-2023,,
+1009,Price Water Cooper,VND1008,-1,Supplier,01-Jan-2023,,

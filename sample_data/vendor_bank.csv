@@ -1,0 +1,12 @@
+Vendor_address_id,vendor_id,vendor_name,Country,Vendor_bank,Routing Number,Account Number
+10001,1001,Amazon Inc.,USA,,,
+10002,1001,Amazon Inc.,Canada,,,
+10003,1002,Alphabet Inc.,USA,,,
+10004,1003,Apple Inc.,USA,,,
+10005,1003,Apple Inc.,India,,,
+10006,1004,Meta Inc.,USA,,,
+10007,1004,Meta Inc.,Ireland,,,
+10008,1005,Netapp Inc,USA,,,
+10009,1006,Fidelity Inc.,USA,,,
+10010,1007,Google Corp,USA,,,
+10011,1008,Baird Holm LLP,USA,,,
